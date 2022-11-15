@@ -6,7 +6,7 @@ import {
   Montserrat_700Bold,
 } from "@expo-google-fonts/montserrat";
 
-import Cesta from "./src/telas/Cesta.jsx";
+import Cesta from "./src/telas/Cesta/componentes";
 
 export default function App() {
   const [fonteCarregada] = useFonts({
